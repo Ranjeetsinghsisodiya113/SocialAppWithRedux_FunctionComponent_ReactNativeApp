@@ -1,0 +1,2 @@
+# SocialAppWithRedux_FunctionComponent_ReactNativeApp
+ SocialAppWithRedux  function based component using react-native

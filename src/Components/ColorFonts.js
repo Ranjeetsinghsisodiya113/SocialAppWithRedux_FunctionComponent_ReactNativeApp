@@ -1,0 +1,42 @@
+export const Colors = {
+
+    //themecolor:'#3697DC',
+    //themecolor: '#AF7AC5',
+    // themecolor:'#CD5C5C',
+    //  themecolor:'#85C1E9',
+    //themecolor: '#FFA07A',
+    themecolor: '#85C1E9',
+    bgcolor: "#252C49",
+    whitecolor: 'white',
+    graycolor: 'gray',
+    darkcolor: "#202542",
+    blackcolor: 'black',
+    normalquestionbg: '#253862',
+    normalquestionborder: '#23457B',
+    rightquestionbg: '#213F4A',
+    rightquestionborder: '#0D8148',
+    wrongquestionbg: '#402E4B',
+    wrongquestionborder: '#C55766',
+}
+
+export const Font = {
+    FontBold: 'Montserrat-Bold',
+    FontBoldItalic: 'Montserrat-BoldItalic',
+    FontExtraBold: 'Montserrat-ExtraBold',
+    FontExtraBoldItalic: 'Montserrat-ExtraBoldItalic',
+    FontExtraLightItalic: 'Montserrat-ExtraLightItalic',
+    FontItalic: 'Montserrat-Italic',
+    FontLight: 'Montserrat-Light',
+    FontLightItalic: 'Montserrat-LightItalic',
+    FontMedium: 'Montserrat-Medium',
+    FontMediumItalic: 'Montserrat-MediumItalic',
+    FontRegular: 'Montserrat-Regular',
+    FontSemiBold: 'Montserrat-SemiBold',
+    FontSemiBoldItalic: 'Montserrat-SemiBoldItalic',
+    FontBlack: 'Montserrat-Black',
+    FontBlackItalic: 'Montserrat-BlackItalic',
+    FontExtraLight: 'Montserrat-ExtraLight',
+    FontThin: 'Montserrat-Thin',
+    FontThinItalic: 'Montserrat-ThinItalic',
+}
+
